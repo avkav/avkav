@@ -1,8 +1,8 @@
-### ¡Hola! Soy Angie 👋
+### Hi! I'm Angie 👋
 
-Soy una programadora junior y estudiante de Inteligencia Artificial, apasionada por la música y siempre en busca de nuevos conocimientos. Actualmente, vivo en Madrid, España.
+I'm a junior programmer and Artificial Intelligence student, passionate about music and always seeking new knowledge. Currently, I live in Madrid, Spain.
 
-#### Herramientas que utilizo:
+#### Tools I use:
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -12,10 +12,9 @@ Soy una programadora junior y estudiante de Inteligencia Artificial, apasionada 
 
 ---
 
-🧠 Siempre aprendiendo y creciendo en el campo de la tecnología.  
-🎶 Amante de la música en todos sus géneros.  
-📍 Basada en Madrid, España.
+🧠 Always learning and growing in the field of technology.  
+🎶 Music lover in all its genres.  
+📍 Based in Madrid, Spain.
 
-¡Gracias por visitar mi perfil!
-
+Thanks for visiting my profile!
 
